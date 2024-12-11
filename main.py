@@ -17,4 +17,7 @@ print("öyle mi olmuş")
 print("bruuh")
 
 
+print("şey mi dostum")
+
+
 
