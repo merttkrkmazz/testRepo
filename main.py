@@ -15,4 +15,7 @@ print("brroo")
 print("öyle mi olmuş")
 
 
+print("şey mi dostum")
+
+
 
