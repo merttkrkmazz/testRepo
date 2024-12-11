@@ -10,6 +10,9 @@ print("de bra")
 
 print("hmm moruq")
 
+print("brroo")
+
 print("öyle mi olmuş")
+
 
 
